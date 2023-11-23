@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Ahmet ER</h1>
+<h1 align="center">Hello 👋, It's Ahmet ER</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmet-er&label=Profile%20views&color=0e75b6&style=flat" alt="ahmet-er" /> </p>
 
