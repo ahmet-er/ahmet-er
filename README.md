@@ -4,6 +4,10 @@
 
 <!-- - 📝 Blogs [https://aer-dev.com.tr/](https://aer-dev.com.tr/) -->
 
+<p>
+  I am a Junior .NET Developer with expertise in .NET Core, Entity Framework, HTML, CSS, JavaScript, jQuery and Bootstrap. My main goal is to improve myself in this field and become a senior developer. I am passionate about keeping up to date with industry developments and have strong creative and problem-solving skills. I am a team player and look forward to continuing to learn and grow within a company.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmet-er/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gençay-yıldız-a1453987/" height="30" width="40" /></a>
