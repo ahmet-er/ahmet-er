@@ -11,7 +11,7 @@
 <li>🚀 Passionate about clean architecture, performance and real-world problem solving</li>
 </ul>
 
-📫 Reach me: <b>[ahmet.er.14@gmail.com](mailto:dev.aer@outlook.com)</b>
+📫 Reach me: <b>[dev.aer@outlook.com](mailto:dev.aer@outlook.com)</b>
 
 ---
 
