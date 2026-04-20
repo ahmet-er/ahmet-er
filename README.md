@@ -1,33 +1,85 @@
 <h2>👋 Hello, It's Ahmet ER</h2>
 
-- 👾  I’m currently working with **.Net Core and anything related with C#.**
-
-- 📫  How to reach me **ahmet.er.14@gmail.com**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmet-er/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gençay-yıldız-a1453987/" height="30" width="40" /></a>
+<p>
+💻 Software Developer focused on building scalable and high-impact systems with <b>.NET & C#</b>.
 </p>
 
-<h3 align="left">Technologies:</h3>
-<p align="left"> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="csharp" width="27" height="30"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="30" height="30"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
-  
-<h3 align="left">Tools:</h3>
-<a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1280px-Visual_Studio_Icon_2019.svg.png" alt="visualstudio" width="30" height="30"/> </a>
-<a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="45" height="30"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
-<a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
-<a href="https://www.notion.so/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="30" height="30"/> </a>
-<a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="30" height="30"/> </a>
+<ul>
+<li>🏢 Currently delivering solutions for <b>banking</b>, <b>energy</b> and <b>enterprise (ERP)</b> domains</li>
+<li>⚙️ Experienced in <b>distributed systems</b>, <b>document processing</b> and <b>system integrations</b></li>
+<li>🧠 Working on <b>scanner technologies (TWAIN)</b>, <b>OCR</b> and large-scale document workflows</li>
+<li>🚀 Passionate about clean architecture, performance and real-world problem solving</li>
+</ul>
+
+📫 Reach me: <b>[ahmet.er.14@gmail.com](mailto:ahmet.er.14@gmail.com)</b>
+
+---
+
+<h3>🔗 Connect with me</h3>
+<p>
+<a href="https://www.linkedin.com/in/ahmet-er/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
 </p>
+
+---
+
+<h3>🧠 Domain Expertise</h3>
+<ul>
+<li>🏦 Banking Systems & Document Management</li>
+<li>⚡ Energy & Utility Company Solutions</li>
+<li>🧾 ERP Systems (SAP-like modular architectures)</li>
+<li>📄 Distributed Document Scanning Systems</li>
+<li>🔌 System Integrations (SOAP & REST APIs)</li>
+<li>🖨️ TWAIN Protocol & Scanner Integrations</li>
+<li>🔍 OCR (Optical Character Recognition) Workflows</li>
+</ul>
+
+---
+
+<h3>💻 Technologies</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
+<img src="https://cdn.prod.website-files.com/6047a9e35e5dc54ac86ddd90/63064f1fedf422395124660e_e7d03466.png" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png?_=20220125121207" width="30" />
+<img src="https://damienbod.com/wp-content/uploads/2024/01/brandblazor_nohalo_1000x.png?w=1000" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/3840px-SQLite370.svg.png" width="60" />
+<img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/author-images/progress-blog-default-logo-transparent.png" width="30" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJfitgJJ5KpRok_HBmWWob7WtLcXmHOSDSQ&s" width="30" />
+</p>
+
+---
+
+<h3>🛠️ Tools</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/e/e6/TWAIN_logo.png" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmRf1AnmGWY_-HH2U2BBgYugTiD8ZkMeA9Q&s" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30"/>
+<img src="https://img.freepik.com/premium-vector/discord-icon-symbol-logo-vector_75079-150.jpg" width="30"/>
+</p>
+
+---
+
+<h3>🚀 Highlights</h3>
+<ul>
+<li>Built a <b>distributed scanner monitoring system</b> for multi-branch organizations</li>
+<li>Developed ERP modules similar to <b>SAP architecture</b></li>
+<li>Worked with <b>large-scale enterprise clients</b> (banking & energy sector)</li>
+<li>Implemented <b>real-time communication</b> with SignalR & WebSockets</li>
+<li>Designed <b>scalable backend systems</b> with Clean Architecture</li>
+</ul>
